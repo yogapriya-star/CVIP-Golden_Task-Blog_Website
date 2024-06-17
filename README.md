@@ -34,12 +34,6 @@ To run the blog website locally:
     ```
 3. **Open `index.html` in your preferred web browser.**
 
-## Usage
-
-- Visit the [live site](https://your-username.github.io/blog-website/) to explore the blog and read the articles.
-- Modify the content in `index.html`, `style.css`, and `script.js` to add your own blog posts and customize the website.
-- Explore and experiment with different web development techniques to enhance the website's functionality and design.
-
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
